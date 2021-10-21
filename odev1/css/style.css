@@ -1,0 +1,27 @@
+.clock {
+    text-align: center;
+    position: relative;
+    color: rgb(187, 139, 172);
+    font-size: 60px;
+    letter-spacing: 7px;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+
+.text1 {
+    text-align: center;
+    position: relative;
+    color: rgb(187, 139, 172);
+    font-size: 50px;
+    letter-spacing: 7px;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.text2 {
+    text-align: center;
+    position: relative;
+    color: rgb(187, 139, 172);
+    font-size: 40px;
+    letter-spacing: 7px;
+    font-family: 'JetBrains Mono', monospace;
+}
